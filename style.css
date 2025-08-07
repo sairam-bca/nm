@@ -30,7 +30,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 15px;
-  border: 4px solid #0077b6;
+  border: 4px solid #00b67f;
   transition: transform 0.3s;
 }
 
@@ -40,7 +40,7 @@ body {
 
 .profile h1 {
   margin: 10px 0;
-  color: #0077b6;
+  color: #00b6a1;
 }
 
 .tagline {
@@ -50,7 +50,7 @@ body {
 
 .profile button {
   margin-top: 15px;
-  background: #0077b6;
+  background: #00b655;
   color: white;
   border: none;
   padding: 10px 25px;
